@@ -5,7 +5,6 @@ Example of Mia's Syntax
 ```scala
 //-- Hello World (4x) - Mia 0.01 - Script
 // Similar to Python but planned to be lighter
-// Featuring reduced boilerplate and  differences
 
 //----- shortest way
 print "Hello, World!" // usual function with no braces
