@@ -14,7 +14,7 @@ hw = "Hello, World!"
 print(hw)             // with braces
 
 //----- echo function
-def echo(s) = s
+def echo(s) = s        // return expression
 print(echo hw)         // optional braces
 
 //----- prints function 
