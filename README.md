@@ -21,5 +21,5 @@ print(echo hw)         // calling without
 def printHelloDear(s)          // no Python's collon
     print "Hello, " + s        // some computation
 
-printHelloDear 'World'         // single quote string
+printHelloDear "World"         // single quote string
 ```
