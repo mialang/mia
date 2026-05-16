@@ -14,5 +14,5 @@ print(hw)             // with braces
 
 //----- with a demo echo function
 def echo(s) = s
-print(echo hw)         // with and without braces
+print(echo hw)         // optional braces
 ```
