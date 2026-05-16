@@ -4,24 +4,23 @@ Example of Mia's Syntax
 
 ```scala
 //-- Hello World (4x) - Mia 0.01 - Script
-// Featuring low weight and low boilerplate
+// Similar to Python but intend should be lighter
+// Featuring reduced boilerplate and  differences
 
 //----- shortest way
-print "Hello, World!" // no braces
+print "Hello, World!" // usual function with no braces
          
 //----- using a variable hw
-hw = "Hello, World!"
-print(hw)             // with braces
+hw = "Hello, World!"  // assign can create var 
+print(hw)             // with optional braces
 
-//----- echo function
+//----- expression echo function
 def echo(s) = s        // return expression
-print(echo hw)         // optional braces
+print(echo hw)         // calling without 
 
-//----- prints function 
-def prints(s)          // no Python's collon
-    print s
+//----- usual printHelloDear function 
+def printHelloDear(s)          // no Python's collon
+    print "Hello, " + s        // some computation
 
-prints "Hello," +      // no ugly line continuation
-   " " +
-      "World"
+printHelloDear 'World'         // single quote string
 ```
