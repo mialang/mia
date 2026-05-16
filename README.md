@@ -1,6 +1,6 @@
 # Introduction to Mia 
 
-Preview of syntax
+Exemple of Syntax 
 
 ```scala
 //-- Hello World (4x) - Mia 0.01 - Script
