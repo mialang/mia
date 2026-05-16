@@ -13,11 +13,11 @@ print "Hello, World!" // usual function with no braces
 hw = "Hello, World!"  // assign can create var 
 print(hw)             // with optional braces
 
-//----- expression echo function
+//----- expression function example
 def echo(s) = s        // return expression
 print(echo hw)         // calling without 
 
-//----- usual printHelloDear function 
+//----- regular function example
 def printHelloDear(s)          // no Python's collon
     print "Hello, " + s        // some computation
 
