@@ -3,7 +3,7 @@
 Preview of syntax
 
 ```scala
-//-- Hello World (4x) - script mode 
+//-- Hello World (4x) - Mia 0.01 - Script
 
 //----- shortest way
 print "Hello, World!" // no braces
