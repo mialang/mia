@@ -21,7 +21,7 @@ print(echo hw)         // optional braces
 def prints(s)          // no Python's collon
     print s
 
-prints "Hello," +      // no explict line continuation
+prints "Hello," +      // no ugly line continuation
    " " +
       "World"
 ```
