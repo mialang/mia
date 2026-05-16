@@ -1,13 +1,14 @@
-# mia
-Introduction to Mia 
+# Introduction to Mia 
+
+Preview of syntax
 
 ```groovy
-//-- Hello World - Mia script - two ways of many
+//-- Hello World - script way
 
 //----- shortest way
 print "Hello, World!" // no braces
          
-//----- using a function
+//----- with a demo echo function
 def echo(s) = s
-print echo("Hello, World!") // using braces
+print(echo("Hello, World!")) // fully braced
 ```
