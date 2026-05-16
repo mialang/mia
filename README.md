@@ -3,7 +3,7 @@
 Preview of syntax
 
 ```groovy
-//-- Hello World (3x) - script mode 
+//-- Hello World (4x) - script mode 
 
 //----- shortest way
 print "Hello, World!" // no braces
