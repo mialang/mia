@@ -2,7 +2,7 @@
 
 Example of Mia's Syntax 
 
-```scala
+```groovy
 // Hello World, repeated 4 times - Mia 0.01 script
 // Similar to Python, but designed to be lighter
 
