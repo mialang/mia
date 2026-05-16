@@ -2,7 +2,7 @@
 
 Preview of syntax
 
-```groovy
+```scala
 //-- Hello World (4x) - script mode 
 
 //----- shortest way
