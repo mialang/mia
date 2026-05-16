@@ -12,7 +12,15 @@ print "Hello, World!" // no braces
 hw = "Hello, World!"
 print(hw)             // with braces
 
-//----- with a demo echo function
+//----- echo function
 def echo(s) = s
 print(echo hw)         // optional braces
+
+//----- prints function + low boilerplate
+def prints(s)
+    print s
+
+prints "Hello,"       // no line continuation
+   + " " +
+      "World"
 ```
