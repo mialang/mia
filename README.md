@@ -18,7 +18,7 @@ def echo(s) = s        // return expression
 print(echo hw)         // optional braces
 
 //----- prints function 
-def prints(s)
+def prints(s)          // no Python's collon
     print s
 
 prints "Hello," +      // no explict line continuation
