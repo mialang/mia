@@ -5,7 +5,7 @@ A taste of of Mia's syntax
 ```groovy
 // Hello, World!, repeated 4 times - Mia 0.01 script
 // This example uses Python-like syntax, but
-// Mia is lighter and more flexible.
+// Mia aims to be lighter and more flexible.
 
 //----- shortest form - single/double quoted strings ok!
 print 'Hello, World!' // function call without parentheses
