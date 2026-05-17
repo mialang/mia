@@ -6,7 +6,7 @@ A taste of of Mia's syntax
 // Hello World, repeated 4 times - Mia 0.01 script
 // Similar to Python, but designed to be lighter
 
-//----- shortest way
+//----- shortest way - single/double quoted strings ok!
 print 'Hello, World!' // function call with no braces
          
 //----- using variables
