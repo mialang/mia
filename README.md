@@ -15,7 +15,7 @@ print(hw)             // with braces
 
 //----- expression function example
 def echo(s) = s        // return expression
-print(echo hw)         // calling without 
+print(echo hw)         // No braces on echo call
 
 //----- regular function example
 def printHelloDear(s)          // no Python's collon
