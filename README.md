@@ -3,7 +3,7 @@
 A first look at Mia's syntax through a few simple variations of "Hello, World!".
 
 ```groovy
-// Hello, World!, repeated 4 times - Mia 0.01 Script
+// Hello, World!, repeated 4 times - Mia v0.01 script
 // This example uses Python-like syntax, but
 // Mia aims to be lighter and more flexible.
 
