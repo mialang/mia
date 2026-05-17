@@ -12,7 +12,7 @@ print 'Hello, World!' // function call without parentheses
          
 //----- using variables
 hw = "Hello, World!"  // here, this creates the variable hw
-print(hw)             // with parentheses
+print(hw)             // call with parentheses is ok!
 
 //----- expression function example
 def echo(s) = s        // returns the expression
