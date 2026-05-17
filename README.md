@@ -7,22 +7,22 @@ A taste of of Mia's syntax
 // This example uses Python-like syntax, but
 // Mia is lighter and more flexible.
 
-//----- shortest way - single/double quoted strings ok!
-print 'Hello, World!' // function call with no braces
+//----- shortest form - single/double quoted strings ok!
+print 'Hello, World!' // function call without parentheses
          
 //----- using variables
 hw = "Hello, World!"  // here, this creates the variable hw
-print(hw)             // with braces
+print(hw)             // with parentheses
 
 //----- expression function example
-def echo(s) = s        // return expression
-print(echo hw)         // No braces on echo call
+def echo(s) = s        // returns the expression
+print(echo hw)         // no parentheses on echo call
 
 //----- regular function example (preview)
-def printHelloSomebody(s)          // no Python's collon
-    print f'Hello, {s}!', s        // formated with 2 args
+def printHelloTo(s)            // no Python-style colon
+    print f'Hello, {s}!', s    // formatted string + second arg
 
-printHelloSomebody 'World'         // no braces call
+printHelloTo 'World'           // call without parentheses
 
 //----- Disclaimer
 // There are many more examples we could include here.
