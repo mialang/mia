@@ -7,7 +7,7 @@ A taste of of Mia's syntax
 // Similar to Python, but designed to be lighter
 
 //----- shortest way
-print "Hello, "World!" // function call with no braces
+print "Hello, World!" // function call with no braces
          
 //----- using a variable hw
 hw = "Hello, World!"  // assign can create var 
