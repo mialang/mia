@@ -7,7 +7,7 @@ A first look at Mia's syntax through a few simple variations of "Hello, World!".
 // This example uses Python-like syntax, but
 // Mia aims to be lighter and more flexible.
 
-//----- shortest form - single/double quoted strings ok!
+//----- shortest form - single/double-quoted strings ok!
 print 'Hello, World!' // function call without parentheses
          
 //----- using variables
