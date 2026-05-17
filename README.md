@@ -19,7 +19,7 @@ print(echo hw)         // No braces on echo call
 
 //----- regular function example
 def printHelloDear(s)          // no Python's collon
-    print "Hello, ", s         // braceless with 2 args
+    print "Hello Dear ", s         // braceless with 2 args
 
 printHelloDear "World"         // no braces call
 
