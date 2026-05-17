@@ -7,10 +7,10 @@ A taste of of Mia's syntax
 // Similar to Python, but designed to be lighter
 
 //----- shortest way
-print "Hello, World!" // function call with no braces
+print 'Hello, World!' // function call with no braces
          
-//----- using a variable hw
-hw = "Hello, World!"  // assign can create var 
+//----- using variables
+hw = "Hello, World!"  // creates var with double quote
 print(hw)             // with braces
 
 //----- expression function example
@@ -21,7 +21,7 @@ print(echo hw)         // No braces on echo call
 def printHelloDear(s)          // no Python's collon
     print "Hello Dear ", s         // braceless with 2 args
 
-printHelloDear "World"         // no braces call
+printHelloDear 'World'         // no braces call
 
 //----- Disclaimer
 // There are many more examples we could include here.
