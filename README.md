@@ -18,9 +18,9 @@ print(hw)             // call with parentheses is ok too
 def echo(s) = s        // returns the expression
 print(echo hw)         // no parentheses on echo call
 
-//----- regular function example (preview)
+//----- regular function example 
 def printHelloTo(s)            // no Python-style colon
-    print f'Hello, {s}!', s    // formatted string + second arg
+    print 'Hello, ' + s + '!'  // computing the final string
 
 printHelloTo 'World'           // call without parentheses
 
