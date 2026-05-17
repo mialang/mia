@@ -2,6 +2,8 @@
 
 A first look at Mia's syntax through a few simple variations of "Hello, World!".
 
+Mia is still in an early experimental stage, and some syntax details may change.
+
 ```groovy
 // Hello, World!, repeated 4 times - Mia v0.01 script
 // This example uses Python-like syntax, but
