@@ -3,14 +3,15 @@
 A taste of of Mia's syntax 
 
 ```groovy
-// Hello World, repeated 4 times - Mia 0.01 script
-// Similar to Python, but designed to be lighter
+// Hello, World!, repeated 4 times - Mia 0.01 script
+// This example uses Python-like syntax, but
+// Mia is lighter and more flexible.
 
 //----- shortest way - single/double quoted strings ok!
 print 'Hello, World!' // function call with no braces
          
 //----- using variables
-hw = "Hello, World!"  // creates var with double quote
+hw = "Hello, World!"  // here, creates the variable hw
 print(hw)             // with braces
 
 //----- expression function example
