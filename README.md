@@ -11,7 +11,7 @@ A taste of of Mia's syntax
 print 'Hello, World!' // function call with no braces
          
 //----- using variables
-hw = "Hello, World!"  // here, creates the variable hw
+hw = "Hello, World!"  // here, this creates the variable hw
 print(hw)             // with braces
 
 //----- expression function example
