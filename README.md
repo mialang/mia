@@ -17,11 +17,11 @@ print(hw)             // with braces
 def echo(s) = s        // return expression
 print(echo hw)         // No braces on echo call
 
-//----- regular function example
-def printHelloDear(s)          // no Python's collon
-    print "Hello Dear ", s         // braceless with 2 args
+//----- regular function example (preview)
+def printHelloSomebody(s)          // no Python's collon
+    print f'Hello, {s}!', s        // formated with 2 args
 
-printHelloDear 'World'         // no braces call
+printHelloSomebody 'World'         // no braces call
 
 //----- Disclaimer
 // There are many more examples we could include here.
